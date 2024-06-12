@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\dto\\empdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\empdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repo\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\config\\automapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\config\\automapconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|e:\\menna osama\\taskegydynamics\\webapplication1\\webapplication1\\models\\egydynamicscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{194147A5-42FB-48A3-9E4D-79707E6E7792}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\egydynamicscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapConfig.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Config\\AutoMapConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Config\\AutoMapConfig.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Config\\AutoMapConfig.cs",
+              "RelativeToolTip": "WebApplication1\\Config\\AutoMapConfig.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:39:23.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpDTO.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\DTO\\EmpDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\EmpDTO.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\DTO\\EmpDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\EmpDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T22:01:17.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "egydynamicsContext.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Models\\egydynamicsContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\egydynamicsContext.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Models\\egydynamicsContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\egydynamicsContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:49:40.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:47:46.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:56:09.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Repo\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repo\\GenericRepo.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Repo\\GenericRepo.cs",
+              "RelativeToolTip": "WebApplication1\\Repo\\GenericRepo.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:57:03.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Employee.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\Models\\Employee.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T21:54:49.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "WebApplication1\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:01:29.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "E:\\menna osama\\taskEgydynamics\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T22:04:33.404Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
